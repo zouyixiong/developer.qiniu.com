@@ -169,14 +169,12 @@ http://78re52.com1.z0.glb.clouddn.com/resource/sintel_trailer.mp4?tupu-video/nro
 <a id="tupu-video-price"></a>
 ## 服务价格
 
-0.01元/10张视频截图，单个视频最低收费0.01元
+0.01元/10张视频截图
 
 <a id="tupu-video-pirce-example"></a>
 ## 计费示例
 
 请求一个5分10秒（310秒）的视频，按照默认截图规则（60张截图） `价格= 60 * 0.01/10 = 0.06(元)`
-
-若用户指定截图上限为`5` 张，则截图数不满10 `价格= 0.01(元)`
 
 若用户指定截图上限为`100` 张，同时指定截图频率为`10秒/张`，则指定频率下最多只能截`310(秒)/10(秒每张)=31(张)` 则 `价格＝31 * 0.01/10 = 0.04(元)`
 [download-tokenHref]: http://developer.qiniu.com/docs/v6/api/reference/security/download-token.html  "下载凭证"

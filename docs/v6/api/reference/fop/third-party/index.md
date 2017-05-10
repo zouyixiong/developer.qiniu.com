@@ -10,6 +10,7 @@ order: 90
 - [描述](#ufop-description)
 - [第三方数据处理服务列表](#ufop-content-table)
   - [广告过滤服务（ad）][adHref]
+  - [广告过滤服务增强版（ad-plus）][adplusHref]
   - [图片鉴黄服务（nrop）][nropHref]
   - [文档转换服务（yifangyun_preview）][yifangyun_previewHref]
   - [短视频鉴黄服务（tupu-video）][tupu-videoHref]
@@ -27,6 +28,7 @@ order: 90
 ## 第三方数据处理服务列表
 
 * [广告过滤服务（ad）][adHref]
+* [广告过滤服务增强版（ad-plus）][adplusHref]
 * [图片鉴黄服务（nrop）][nropHref]
 * [文档转换服务（yifangyun_preview）][yifangyun_previewHref]
 * [视频鉴黄服务（tupu-video）][tupu-videoHref]
@@ -35,6 +37,7 @@ order: 90
 
 [nropHref]:        /docs/v6/api/reference/fop/third-party/nrop.html
 [adHref]:          /docs/v6/api/reference/fop/third-party/ad.html
+[adplusHref]:          /docs/v6/api/reference/fop/third-party/ad-plus.html
 [yifangyun_previewHref]:          /docs/v6/api/reference/fop/third-party/yifangyun_preview.html
 [tupu-videoHref]:  /docs/v6/api/reference/fop/third-party/tupu-video.html
 [sequickimageHref]: /docs/v6/api/reference/fop/third-party/sequickimage.html
